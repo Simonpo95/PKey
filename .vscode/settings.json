@@ -1,0 +1,8 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "proto.h": "c",
+        "cooperative.h": "c",
+        "betrayer.h": "c"
+    }
+}
